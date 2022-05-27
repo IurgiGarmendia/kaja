@@ -129,6 +129,7 @@ namespace kaja
 
         private void button2_Click(object sender, EventArgs e)
         {
+            //koment
             entityInstantFeedbackSource1.Refresh();
             //gridView1.FocusedRowHandle = 10;
             //gridView1.SelectRow(10);
