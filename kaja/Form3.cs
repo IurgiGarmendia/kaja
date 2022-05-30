@@ -82,7 +82,7 @@ namespace kaja
                     _kaxaBerria.IDCAGE = Convert.ToInt32(idcaga);
                     _dataContext.DBCAGE.Add(_kaxaBerria);
                     _dataContext.SaveChanges();
-                    //entityInstantFeedbackSource1.Refresh();
+                    entityInstantFeedbackSource1.Refresh();
                     //_dataContext.SaveChanges();
 
 
